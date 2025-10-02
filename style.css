@@ -8,8 +8,10 @@
 }
 
 .cajita-1 {
-  width: 100px;
-  height: 100px;
-  background-color: red;
+  background: #FFB6A1;
+  width: 100vw;   /* ancho: 100% de la ventana */
+  height: 100vh;  /* alto: 100% de la ventana */
+  margin: 0;      /* para evitar márgenes indeseados */
+  padding: 0;     /* para evitar padding */
+  position: relative; /* o absolute si quieres posicionarlo de forma absoluta */
 }
-
