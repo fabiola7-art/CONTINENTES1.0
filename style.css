@@ -5,7 +5,7 @@
   padding:10px; /* espacio entre texto y caja*/
   margin:0px; /* espacio entre cajas*/
   display:inline-block; /*las cajas se muestran en linea*/
-  width:1495px; /*ancho*/
+  width:2000px; /*ancho*/
   height:538px; /*alto*/ 
 }
 
@@ -80,4 +80,5 @@
   height:15px; /*alto*/ 
   left:1037px;
  
+
 }
