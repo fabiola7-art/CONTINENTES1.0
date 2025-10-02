@@ -7,11 +7,16 @@
   justify-content: center;
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
 .cajita-1 {
   background: #FFB6A1;
-  width: 100vw;   /* ancho: 100% de la ventana */
-  height: 100vh;  /* alto: 100% de la ventana */
-  margin: 0;      /* para evitar márgenes indeseados */
-  padding: 0;     /* para evitar padding */
-  position: relative; /* o absolute si quieres posicionarlo de forma absoluta */
+  width: 100vw;
+  height: 100vh;
+  position: relative;
 }
+
