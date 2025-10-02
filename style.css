@@ -1,7 +1,15 @@
-.cajita-1{
-background:#FFB6A1;
-top:0px;
-left:0px;
-width:1850px; height:710px; 
+.cajita {
+  width: 300px;
+  height: 300px;
+  background-color: lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cajita-1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
 }
 
